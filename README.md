@@ -12,7 +12,7 @@
 
 ## Week 2 [10/04]
 - 이진탐색트리 (Binary Search Tree)
-- 연습문제: 
+- 연습문제: Boj_1920(Binary Search)
 
 ## Week 3 [10/25]
 - 최소힙 (Binary Heap)
