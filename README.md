@@ -16,7 +16,7 @@
 
 ## Week 3 [10/25]
 - 최소힙 (Binary Heap)
-- 연습문제: 
+- 연습문제: Boj_11279(Priority Queue)
 
 ## Week 4 [11/01]
 - 삽입정렬 (Insertion Sort)
