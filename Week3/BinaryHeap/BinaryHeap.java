@@ -5,7 +5,7 @@
 최솟값 삭제 : O(logN)
 */
 
-public class Main {
+public class BinaryHeap {
     public static void main(String[] args) {
       Entry[] a = new Entry[101];
       a[1] = new Entry(90, "a");
