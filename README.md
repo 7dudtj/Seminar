@@ -21,7 +21,7 @@
 ## Week 4 [11/01]
 - 삽입정렬 (Insertion Sort)
 - 합병정렬 (Merge Sort)
-- 연습문제: 
+- 연습문제: Boj_2750(Sort in O(N^2)), Boj_2751(Sort in O(NlogN))
 
 ## Week 5 [11/08]
 - 깊이우선탐색 (Depth First Search)
