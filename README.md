@@ -26,7 +26,7 @@
 ## Week 5 [11/08]
 - 깊이우선탐색 (Depth First Search)
 - 너비우선탐색 (Breath First Search)
-- 연습문제:
+- 연습문제: Boj_2606(BFS, DFS)
 
 ## Week 6 [11/15]
 - 위상정렬 (Topological Sort)
