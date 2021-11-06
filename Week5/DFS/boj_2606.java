@@ -46,11 +46,9 @@ public class boj_2606 {
 
   // dfs function
   private static void dfs(int v){
-    visited[v] = true;
-    infection++;
-    for (Edge e: adjList[v]){
-      if (!visited[e.adj]) dfs(e.adj);
-    }
+    /*
+      dfs를 구현해보세요!
+    */
   }
 }
 
