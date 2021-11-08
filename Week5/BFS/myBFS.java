@@ -56,7 +56,7 @@ class BFS{
   public BFS(List<Edge>[] adjList){
     N = adjList.length;
     graph = adjList;
-    visited = new boolean[N];
+    visited = new boolean[N]; // false
     for (int i = 0; i < N; i++) visited[i] = false; // 배열 초기화
     for (int i = 0; i < N; i++) if (!visited[i]) bfs(i);
   }
