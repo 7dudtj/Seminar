@@ -30,7 +30,7 @@
 
 ## Week 6 [11/15]
 - 위상정렬 (Topological Sort)
-- 연습문제:
+- 연습문제: Boj_2252(Topological Sort)
 
 ## Week 7 [11/22]
 - 최소신장트리 (Kruskal Minimum Spanning Tree)
