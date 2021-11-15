@@ -1,5 +1,3 @@
-package Week6.TopologicalSort; // 여기는 빼주셔도 됩니다
-
 /*
 Topological Sort - 위상정렬
 수행시간 : O(N + M)
