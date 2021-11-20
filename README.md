@@ -34,7 +34,7 @@
 
 ## Week 7 [11/22]
 - 최소신장트리 (Kruskal Minimum Spanning Tree)
-- 연습문제:
+- 연습문제: Boj_10423(Minimum Spanning Tree)
 
 ## Week 8 [11/29]
 - 최단경로 (Dijkstra Shortest Path)
