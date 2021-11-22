@@ -5,11 +5,12 @@ import java.util.StringTokenizer;
 import java.util.ArrayList;
 import java.util.Collections;
 
-public class Main {
+// boj_10423 >> Main
+public class boj_10423 {
   // set static variables
   static int[] elec;
 
-	public static void main(String args[]) throws Exception	{
+	public static void main(String args[]) throws IOException	{
     // set needed variables
     BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
     StringTokenizer st = new StringTokenizer(br.readLine(), " ");
@@ -18,7 +19,7 @@ public class Main {
     int K = Integer.parseInt(st.nextToken());
     elec = new int[N+1];
     for (int i = 0; i <= N; i++) elec[i] = i;
-    ArrayList<Edge> edgeList = new ArrayList<>();
+    ArrayList<myEdge> edgeList = new ArrayList<>();
     int u, v, w, a, b;
     int powerOn = K, cost = 0;
 
@@ -34,7 +35,7 @@ public class Main {
       u = Integer.parseInt(st.nextToken());
       v = Integer.parseInt(st.nextToken());
       w = Integer.parseInt(st.nextToken());
-      edgeList.add(new Edge(u, v, w));
+      edgeList.add(new myEdge(u, v, w));
     }
     Collections.sort(edgeList);
 
@@ -66,20 +67,20 @@ public class Main {
 }
 
 // Edge class
-class Edge implements Comparable<Edge>{
+class myEdge implements Comparable<myEdge>{
   // class variables
   int u;
   int v;
   int w;
   // constructor
-  public Edge(int u, int v, int w){
+  public myEdge(int u, int v, int w){
     this.u = u;
     this.v = v;
     this.w = w;
   }
   // comparable
   @Override
-  public int compareTo(Edge e){
+  public int compareTo(myEdge e){
     return w - e.w;
   }
 }

@@ -7,7 +7,7 @@ N : 정점의 수, M : 간선의 수행
 import java.util.ArrayList;
 import java.util.Collections;
 
-public class Main {
+public class KruskalMST  {
   // set needed static components
   static int[] parent;
 
