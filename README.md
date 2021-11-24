@@ -38,7 +38,7 @@
 
 ## Week 8 [11/29]
 - 최단경로 (Dijkstra Shortest Path)
-- 연습문제:
+- 연습문제: Boj_1753(Dijkstra Shortest Path)
 
 
 자세한 내용은 [PoolC 세미나 페이지](https://poolc.org/activity/506)에서 확인하실수 있습니다.
