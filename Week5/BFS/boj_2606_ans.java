@@ -1,4 +1,4 @@
-// answer code of boj_2606
+// answer code of boj_2606 
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
