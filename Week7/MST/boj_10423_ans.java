@@ -1,11 +1,11 @@
-// answer code of boj_10423
+// answer code of boj_10423 
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.io.IOException;
 import java.util.StringTokenizer;
-import java.util.ArrayList;
-import java.util.Collections;
+import java.util.ArrayList; 
+import java.util.Collections; 
 
 // boj_10423_ans >> Main
 public class boj_10423_ans {
@@ -94,4 +94,4 @@ class Edge implements Comparable<Edge>{
   public int compareTo(Edge e){
     return w - e.w;
   }
-}
+} 
