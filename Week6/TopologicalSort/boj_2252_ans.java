@@ -1,10 +1,10 @@
-// answer code of boj_2252
+// answer code of boj_2252 
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.io.IOException;
 import java.util.StringTokenizer;
-import java.util.List;
+import java.util.List; 
 import java.util.LinkedList;
 import java.util.Queue;
 
