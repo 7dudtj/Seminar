@@ -1,5 +1,5 @@
 // skeleton code of boj_2750
-
+ 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.io.IOException;

@@ -2,7 +2,7 @@
 이진힙
 힙 만들기 : O(N)
 삽입 : O(logN)
-최솟값 삭제 : O(logN)
+최솟값 삭제 : O(logN) 
 */
 
 public class BinaryHeap {
