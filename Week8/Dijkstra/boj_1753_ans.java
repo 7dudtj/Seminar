@@ -65,7 +65,7 @@ public class boj_1753_ans {
     // print answer and end program
     System.out.print(sb);
     br.close();
-    return;
+    return;  
   }
 }
 
