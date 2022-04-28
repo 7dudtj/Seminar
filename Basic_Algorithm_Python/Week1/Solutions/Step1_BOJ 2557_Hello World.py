@@ -1,2 +1,2 @@
-# "Hello World!"¸¦ Ãâ·ÂÇÏ¼¼¿ä
+# "Hello World!"ë¥¼ ì¶œë ¥í•˜ì„¸ìš”
 print("Hello World!")
