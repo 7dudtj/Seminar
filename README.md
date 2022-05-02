@@ -17,7 +17,7 @@
     - 5주차: 깊이우선탐색, 너비우선탐색  
 
 자세한 내용은 [Basic Algorithm 세미나](https://github.com/7dudtj/Seminar/tree/main/Basic_Algorithm_Python) 에서 확인할 수 있습니다!  
-***파이썬으로 배우는 기초 알고리즘*** 5월 3일에 시작될 예정입니다.  
+***파이썬으로 배우는 기초 알고리즘 세미나*** 는 5월 3일에 시작될 예정입니다.  
 세미나의 세부 내용은 추후 변경될 수 있습니다.    
 
 * * *
@@ -36,7 +36,7 @@
     - 8주차: 최단경로  
 
 자세한 내용은 [Data Structure 세미나](https://github.com/7dudtj/Seminar/tree/main/Data_Structure_Java) 에서 확인하실 수 있습니다!  
-***자바로 배우는 자료구조*** 세미나는 업데이트가 완료되었습니다. 
+***자바로 배우는 자료구조 세미나*** 는 업데이트가 완료되었습니다. 
 
 추가적으로, [Data_Structure 레포지토리](https://github.com/7dudtj/Data_Structure) 에서 Java와 C++로 구현된 자료구조 코드를 볼 수 있습니다! 
 
