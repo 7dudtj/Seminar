@@ -18,6 +18,18 @@ Step 4: BOJ 10952번 / A+B - 5
 ```
 
 ## Week 2
+- 정렬
+- 전체탐색
+- 이분탐색
+
+< 연습문제 >
+```
+Step 1: BOJ 2750번 / 수 정렬하기
+Step 2: BOJ 2501번 / 약수 구하기
+Step 3: BOJ 11557번 / Yangjojang of The Year
+Step 4: BOJ 2309번 / 일곱 난쟁이
+Step 5: BOJ 1920번 / 수 찾기
+```
 
 ## Week 3
 
