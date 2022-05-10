@@ -9,7 +9,7 @@ for i in range(1, N+1):
         num += 1
     if (num == K):
         answer = i
-        break
+        break # for문 탈출
 
 # 정답을 출력하세요
 print(answer)

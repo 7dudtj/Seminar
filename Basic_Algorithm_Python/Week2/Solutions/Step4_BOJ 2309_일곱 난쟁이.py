@@ -25,7 +25,7 @@ dwarf[oneIdx] = 0
 dwarf[twoIdx] = 0
 
 # 난쟁이의 키를 오름차순으로 정렬해주세요
-dwarf.sort()
+dwarf.sort() # [0, 0, 1번 ... 7번]
 
 # 진짜 난쟁이 7명의 키를 출력해주세요
 for i in range(2, 9):
