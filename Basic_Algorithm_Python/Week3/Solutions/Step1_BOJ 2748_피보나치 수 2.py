@@ -2,13 +2,13 @@
 n = int(input())
 
 # dp를 수행할 배열을 만드세요
-dp = [0 for _ in range(n+1)]
+dp = [0 for _ in range(n+1)] # 0 1 2 .. n-1 n (총 n+1개)
 
 # 초기값을 설정해주세요
 # Hint: dp[0] = 0, dp[1] = 1
 dp[1] = 1
 
-# dp를 수행하세요
+# dp를 수행하세요 : O(n)
 for i in range(2, n+1):
     dp[i] = dp[i-1] + dp[i-2]
 
