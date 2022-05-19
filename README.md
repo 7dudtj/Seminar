@@ -13,7 +13,7 @@
     - 1주차: 파이썬 기초  
     - 2주차: 정렬, 브루트포스, 이분탐색  
     - 3주차: 다이나믹 프로그래밍  
-    - 4주차: 스택, 큐, 우선순위큐  
+    - 4주차: 스택, 큐  
     - 5주차: 깊이우선탐색, 너비우선탐색  
 
 자세한 내용은 [Basic Algorithm 세미나](https://github.com/7dudtj/Seminar/tree/main/Basic_Algorithm_Python) 에서 확인할 수 있습니다!  
