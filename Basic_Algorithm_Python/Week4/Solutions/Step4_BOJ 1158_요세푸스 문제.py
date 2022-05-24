@@ -4,8 +4,8 @@ N, K = map(int,input().split())
 # N명의 사람을 담은 배열을 만드세요
 arr = [i for i in range(1,N+1)] 
 
-# 제거된 사람을 담는 answer 배열을 만드세요
-answer = []
+# 제거된 사람을 담는 output 배열을 만드세요
+output = []
 
 # 제거될 사람의 index를 선언하세요
 idx = 0
@@ -20,8 +20,8 @@ for i in range(N):
         idx %= len(arr)
 
     # 한 사람을 제거하세요
-    answer.append(str(arr[idx]))
+    output.append(str(arr[idx]))
     arr.pop(idx)
 
 # 요세푸스 순열을 출력하세요
-print("<",', '.join(answer),">", sep="")
+print("<",', '.join(output),">", sep="")

@@ -8,18 +8,18 @@ for i in range(1, N+1):
     q.put(i)
 
 # 버린 카드를 모아둘 list 선언하세요
-answer = []
+output = []
 
 # queue에서 작업을 수행하세요
 # queue에 카드가 남아있을 때 수행
-while (q.qsize() > 0):
+while (q.qsize() > 0): # q.qsize() : queue에 남아있는 원소 수 반환
     # 카드 버리기
     outCard = q.get()
-    answer.append(outCard)
+    output.append(outCard)
     # queue에 카드가 남았을 때, 맨 앞 카드를 맨 뒤로 보내기
     if (q.qsize() > 0):
         inCard = q.get()
         q.put(inCard)
 
 # 버리는 카드들과 남은 카드를 출력하세요
-print(*answer)
+print(*output)
