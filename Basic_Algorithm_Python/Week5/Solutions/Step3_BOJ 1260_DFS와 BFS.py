@@ -37,8 +37,8 @@ for _ in range(M):
 
 # graph를 오름차순으로 정렬하세요
 # Hint: graph[1]부터 graph[N]까지 각각 오름차순 정렬
-for i in range(1, N+1):
-    graph[i].sort()
+for i in range(1, N+1): # 각 정점의 이웃 노드들에 대해서
+    graph[i].sort() # 오름차순 정렬
 
 # dfs에 사용될 visited list를 만들고 dfs를 수행하세요
 visited = [False for _ in range(N+1)]
